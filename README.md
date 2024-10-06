@@ -33,7 +33,7 @@ We used Jupyter Notebook which is an open-source web application that allows you
 
 
 ## Comparison of Model Performance using Accuracy of Prediction
-![Alt text](https://github.com/21ec01045sandy/Stock-market-prediction-using-NLP-techniques)
+![Alt text](https://github.com/viswajavts/Stock-market-prediction-using-NLP-techniques)
 * Random forests had highest accuracy on the a Bi-gram model as shown in the chart. The prediction accuracy was 85.97%. Using Natural 
 * Language Processing techniques, we were able to accurately predict the stock market trends 85% of the time. 
 
