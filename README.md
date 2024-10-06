@@ -59,7 +59,7 @@ We are looking at the stock of one company. We can expand it to work for multipl
 Perform multi class classification for various parameters of stock trading.
 
 ## Appendix: Code
-All the source files used in this project can be found at: https://github.com/21ec01045sandy/Stock-market-prediction-using-NLP-techniques
+All the source files used in this project can be found at: https://github.com/viswajavts/Stock-market-prediction-using-NLP-techniques
 
 
 ## References
